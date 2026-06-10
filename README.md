@@ -1,4 +1,1 @@
-# Fastpath.se
-
-Page under construction!
-
+Nothing to see here... move along, move along
