@@ -1,1 +1,3 @@
-Nothing to see here... move along, move along
+# fastpath.se homepage
+
+HTML root lives in docs/
